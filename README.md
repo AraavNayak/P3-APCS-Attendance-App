@@ -8,7 +8,7 @@ Simple iOS app I developed to make taking attendance more easier especially when
     <td><img src="attendanceWithInitials.png" alt="Attendance interface with initials displayed"></td>
   </tr>
   <tr>
-    <td><img src="attendanceWOInitials" alt="Attendance interface without initials displayed"></td>
+    <td><img src="attendanceWOInitials.png" alt="Attendance interface without initials displayed"></td>
   </tr>
 </table>
 
