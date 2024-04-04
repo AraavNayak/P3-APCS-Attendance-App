@@ -35,10 +35,10 @@ class ViewController: UIViewController {
     }
     
     func end() {
-        let attendanceVC = AttendanceVC() // Instantiate the view controller you want to present
-
+        //let attendanceVC = AttendanceVC() // Instantiate the view controller you want to present
+        self.dismiss(animated: true)
         // Present the attendanceVC from the current view controller
-        self.present(attendanceVC, animated: true, completion: nil)
+        //self.present(attendanceVC, animated: true, completion: nil)
 //        let hostingController = AttendanceVC()
 //        addChild(hostingController)
 //        view.addSubview(hostingController.view)
