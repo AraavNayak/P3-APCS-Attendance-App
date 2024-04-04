@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  LoginScreen
 //
-//  Created by Federico on 13/11/2021.
+//  Created by Araav on 3/16/2024.
 //
 
 import SwiftUI
@@ -33,18 +33,19 @@ struct ContentView: View {
                         .font(.largeTitle)
                         .bold()
                         .padding()
+                        .foregroundColor(.black.opacity(1))
                     Text("P3 APCS Attendance App")
                         .padding()
                         .frame(width: 300, height: 50)
                         .background(Color.black.opacity(0.05))
                         .cornerRadius(10)
-                        .border(.red, width: CGFloat(wrongUsername))
-                    Text("Developer: Araav Nayak")
-                        .padding()
-                        .frame(width: 300, height: 50)
-                        .background(Color.black.opacity(0.05))
-                        .cornerRadius(10)
-                        .border(.red, width: CGFloat(wrongPassword))
+                        .foregroundColor(.black.opacity(0.8))
+//                    Text("Developer: Araav Nayak")
+//                        .padding()
+//                        .frame(width: 300, height: 50)
+//                        .background(Color.black.opacity(0.05))
+//                        .cornerRadius(10)
+//                        .foregroundColor(.black.opacity(0.8))
                     Button("Begin") {
                         vc.end()
                         //dismiss()
