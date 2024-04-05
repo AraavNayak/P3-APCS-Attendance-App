@@ -4,11 +4,12 @@ Simple iOS app to make taking attendance more easier especially when students ma
 
 <table>
   <tr>
-    <td><img src="launchScreen.png" alt="Launch Screen"></td>
-    <td><img src="attendanceWithInitials.png" alt="Attendance interface with initials displayed"></td>
+    <td><img src="https://github.com/AraavNayak/P3-APCS-Attendance-App/assets/104335810/dff67490-d35b-4a62-b34a-460ceaf7e86e" alt="Launch Screen"></td>
+    <td><img src="https://github.com/AraavNayak/P3-APCS-Attendance-App/assets/104335810/553c50d5-d68c-490c-bfd3-8087051861fd" alt="Attendance interface with initials displayed"></td>
   </tr>
   <tr>
-    <td><img src="attendanceWOInitials.png" alt="Attendance interface without initials displayed"></td>
+    <td><img src="https://github.com/AraavNayak/P3-APCS-Attendance-App/assets/104335810/e2b57d9f-fb7a-4187-a424-c613939bec33" alt="Copy data"></td>
+    <td><img src="https://github.com/AraavNayak/P3-APCS-Attendance-App/assets/104335810/530508ff-4d1d-452e-a3ea-5d62ddec96f3" alt="Edit seat data"></td>
   </tr>
 </table>
 
